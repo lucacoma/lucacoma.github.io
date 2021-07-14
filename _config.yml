@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Luca Comanducci
+title                    : "Luca Comanducci"
 title_separator          : "-"
 name                     : &name "Luca Comanducci"
 description              : &description "personal description"
