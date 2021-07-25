@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "luca_comanducci.jpeg"
+  name             : "Luca Comanducci"
+  avatar           : "luca_comanducci.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
