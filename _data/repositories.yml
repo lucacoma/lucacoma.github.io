@@ -1,12 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - lucacoma
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - lucacoma/XAISrcLoc 
+  - lucacoma/DiffTransfer  
+  - lucacoma/NeuralBeamspaceDomainFilter 
+  - lucacoma/pressure_matching_deep_learning 
+  - polimi-ispl/speech_reconstruction_embeddings
+
