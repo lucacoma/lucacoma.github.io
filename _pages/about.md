@@ -24,5 +24,5 @@ I received the B.S. degree in Music Information Science from the [University of 
 
 My main research interests concern the application of generative models to music informatics, space-time audio signal problems, and the development of techniques for human-computer interaction in musical contexts. 
 
-Here you can find my full academic [CV](/assets/pdf/cv.pdf).
+Here you can find my full academic [CV](/assets/pdf/cv.pdf)!
 
