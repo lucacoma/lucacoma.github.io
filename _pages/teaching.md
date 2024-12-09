@@ -7,13 +7,13 @@ nav: true
 nav_order: 5
 ---
 
-I am currently teaching assistant for the following courses at politecnico di Milano
+I am currently teaching assistant for the following courses at politecnico di Milano:
  - 054280 Creative Programming and Computing, Module 2: Generative Artifical Intelligence for Art [website link](https://mae-creative-pc.github.io/) (since 2019)
 
  - 057871 Music and Acoustic Engineering Capstone, [website link](https://www11.ceda.polimi.it/schedaincarico/schedaincarico/controller/scheda_pubblica/SchedaPublic.do?&evn_default=evento&c_classe=789997&polij_device_category=DESKTOP&__pj0=0&__pj1=6d90d8e0a81777269e67dba753cb0529) (since 2023)
 
 
- In the past I also taught as part of the following courses:
+ In the past I have also been teaching assistant for the following courses:
 
 - 055674 Project Course [website link](https://www4.ceda.polimi.it/manifesti/manifesti/controller/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&k_corso_la=263&k_indir=MMI&idItemOfferta=150890&idRiga=260607&codDescr=055674&semestre=2&aa=2020&lang=IT&jaf_currentWFID=main) (2022)
 
