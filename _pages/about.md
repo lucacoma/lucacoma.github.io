@@ -12,7 +12,7 @@ profile:
     <p>Dipartimento di Elettronica, Informazione e Bioingegneria</p>
     <p>Building 20</p>
     <p>via Ponzio 34/5, 20133 Milano, Italy</p>
-    <p>Phone: +39 02 2399 9624</p>
+    <p>Phone: +39 02 2399 9640</p>
     
 
 news: true  # includes a list of news items
