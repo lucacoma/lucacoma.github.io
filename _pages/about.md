@@ -26,3 +26,5 @@ My main research interests concern the application of generative models to music
 
 Here you can find my full academic [CV](/assets/pdf/academic_cv.pdf)!
 
+** If you are interested in a M.Sc. theses with me about generative audio/music please compile this [FORM](https://docs.google.com/forms/d/e/1FAIpQLSfG_fv_KDu3fPYWPhZqKQWfQPpnzh3AvNEk_kLEDBbuU7-4HA/viewform?usp=header). Normally, theses are asked the semester before the desired starting period. **
+
