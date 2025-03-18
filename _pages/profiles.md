@@ -14,7 +14,7 @@ I mainly supervise Master theses focusing on the application of **generative mod
 - Wenjia Luo [_Interaction Design for live performance of acousmatic music_]() (Co-advisor Francesca Ronchini, Massimo Colombo, Antonio Pileggi, Giovanni Cospito @[INNER_SPACES](https://www.innerspaces.it/it/)) 
 - Federico Angelo Luigi Ruggeri [_Sound Event Detection and Localization using Mel-FSGCC_]() (Co-advisor Francesca Ronchini, Prof. Maximo Cobos)
 - Simone Marcucci [_Text-to-music models for creative music practice: a user experience study_]() (Co-advisor Francesca Ronchini)
-- Riccardo Passoni [_Balance between performance end carbon footspring of state-of-the-art deep learning systems for audio domain applications_]() (Co-advisor Francesca Ronchini)
+- Riccardo Passoni [_Balance between performance end carbon footspring of state-of-the-art deep learning systems for audio domain applications_]() (Co-advisor Francesca Ronchini, Prof. Romain Serizel)
 - Guglielmo Fraticcioli [_Timbre Transfer using selective state-space models_]() (Co-advisor Francesca Ronchini)
 - Nicolò Pisanu [_Bioacustic event detection using deep learning_]() (@[GemmoAI](https://gemmo.ai/))
 
