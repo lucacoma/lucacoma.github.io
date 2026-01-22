@@ -6,7 +6,7 @@ subtitle: <a href='https://www.polimi.it/'>Politecnico di Milano</a>. <a href='h
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: io_paris.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Dipartimento di Elettronica, Informazione e Bioingegneria</p>
