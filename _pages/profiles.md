@@ -10,16 +10,20 @@ nav_order: 7
 I mainly supervise Master theses focusing on the application of **generative models to music or synthesis**. I also supervised works related to spatial audio. If you are interested in discussing a master thesis or in different types of collaborations feel free to write me an email!
 
 ## Currently supervised theses
+- Alice Portentoso [Music Machine Unlearning] (Co-advisor Francesca Ronchini, Paolo Bestagini)
+- Flavio Ingenito [Shapley values applied to text-to-music models] (Co-advisor Francesca Ronchini, Paolo Bestagini)
+- Riccardo Moschen [Interaction Design for live performance of acousmatic music_] (Co-advisor Francesca Ronchini, Massimo Colombo) @[INNER_SPACES]
 
-- Wenjia Luo [_Interaction Design for live performance of acousmatic music_]() (Co-advisor Francesca Ronchini, Massimo Colombo, Antonio Pileggi, Giovanni Cospito @[INNER_SPACES](https://www.innerspaces.it/it/)) 
+## Past Supervised theses
+- Francisco Messina [Towards Memorization Free Audio Diffusion Models] (Co-advisor Francesca Ronchini, Paolo Bestagini)
+- Alice Lenoci [Towards Black-Box Membership Inference in Diffusion-Based Music Generative Models] (Co-advisor Francesca Ronchini, Paolo Bestagini)
+- Sophia Barbera [Fake music detection with open-set recognition and vocal-instrumental separation] (Co-advisor Francesca Ronchini, Paolo Bestagini)
+- Wenjia Luo [ Beyond the Console: A Gesture-Driven Mobile Spatial Audio System in Cross-Domain Collaboration]() (Co-advisor Francesca Ronchini, Massimo Colombo) @[INNER_SPACES](https://www.innerspaces.it/it/)) 
 - Federico Angelo Luigi Ruggeri [_Sound Event Detection and Localization using Mel-FSGCC_]() (Co-advisor Francesca Ronchini, Prof. Maximo Cobos)
 - Simone Marcucci [_Text-to-music models for creative music practice: a user experience study_]() (Co-advisor Francesca Ronchini)
 - Riccardo Passoni [_Balance between performance end carbon footspring of state-of-the-art deep learning systems for audio domain applications_]() (Co-advisor Francesca Ronchini, Prof. Romain Serizel)
 - Guglielmo Fraticcioli [_Timbre Transfer using selective state-space models_]() (Co-advisor Francesca Ronchini)
 - Nicolò Pisanu [_Bioacustic event detection using deep learning_]() (@[GemmoAI](https://gemmo.ai/))
-
-
-## Past Supervised theses
 - Marco Furio Colombo [_Mamba-Foley: Time-Controlled Foley Sound Generation using Selective State-Space Models_]() (Co-advisor Francesca Ronchini) 
 
 ## Past Co-supervised theses
